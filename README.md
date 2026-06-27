@@ -12,7 +12,7 @@ Didesain khusus untuk **edukasi** agar mudah memahami cara kerja lampu merah, ku
 - 1x Arduino Uno R3 SMD
 - 1x Usb Cable Printer ( Untuk Power Arduino Uno )
 - 3x Led Traffic Light ( Red, Yellow, Green )
-- 1x Breadboard
+- 1x Breadboard [ Tidak Wajib ]
 - Jumper Cable **[ Secukupnya ]**
 
 ## ⚡ Wiring Pin
@@ -24,8 +24,8 @@ Didesain khusus untuk **edukasi** agar mudah memahami cara kerja lampu merah, ku
 
 ## 📖 Cara Menggunakan
 1. Rakit rangkaian sesuai wiring.  
-2. Upload program ke Arduino Uno melalui Arduino IDE.  
-3. Hubungkan Arduino ke power (USB atau adaptor).  
+2. Hubungkan Arduino ke power (USB atau adaptor).  
+3. Upload program ke Arduino Uno melalui Arduino IDE.  
 4. Amati simulasi pergantian lampu lalu lintas.  
 
 ## Rangkaian & Sketsa Project
@@ -40,4 +40,4 @@ Didesain khusus untuk **edukasi** agar mudah memahami cara kerja lampu merah, ku
 
 > Proyek ini Cocok Untuk Dijadikan Sebagai Edukasi Tentang Cara Kerja Lampu Lalu lintas Menggunakan Arduino Uno
 
-*Powered By FarSyaFad Tech 2025  |  All Right Reserved  |  Created By Ahnaf Samih*
+*Powered By FarSyaFad Tech 2026  |  All Right Reserved  |  Created By Ahnaf Samih 🧑‍💻*
